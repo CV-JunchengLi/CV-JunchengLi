@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Juncheng Li -- ???
+## I'm Juncheng Li
 
 [![](https://img.shields.io/badge/Research-GoogleScholar-888888)](https://scholar.google.com.hk/citations?user=a5jkbmkAAAAJ&hl=zh-CN)
 
