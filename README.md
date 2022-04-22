@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Juncheng Li -- 李俊诚
+## I'm Juncheng Li -- ???
 
 [![](https://img.shields.io/badge/Research-GoogleScholar-888888)](https://scholar.google.com.hk/citations?user=a5jkbmkAAAAJ&hl=zh-CN)
 
@@ -42,6 +42,12 @@ Here are some ideas to get you started:
 | The Chinese University of Hong Kong | Prof. ZENG Tieyong - Director of CMAI | Research Assistant | 05/2018 - 10/2018 |
 
 ## Representative Publications
+- [From Beginner to Master: A Survey for Deep Learning-based Single-Image Super-Resolution (Under Review)](https://junchenglee.com/paper/SISR_2021.pdf)
+- [Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer (IJCAI 2022)]()
+- [Transformer for Single Image Super-Resolution (CVPRW 2022)?Hot?](https://arxiv.org/pdf/2108.11084.pdf)
+- [Multiple Degradation and Reconstruction Network for Single Image Denoising via Knowledge Distillation (CVPRW 2022)]()
+- [FBSNet: A Fast Bilateral Symmetrical Network for Real-Time Semantic Segmentation (TMM 2022)](https://ieeexplore.ieee.org/abstract/document/9732215)
+- [Feature Distillation Interaction Weighting Network for Lightweight Image Super-Resolution (AAAI 2022)](https://junchenglee.com/paper/AAAI.pdf)
 - [Structure-Preserving Deraining with Residue Channel Prior Guidance (ICCV 2021)](https://junchenglee.com/projects/ICCV2021_SPDNet/)
 - [Efficient and Accurate Multi-scale Topological Network for Single Image Dehazing (TMM 2021)](https://ieeexplore.ieee.org/document/9473023)
 - [Feedback Network for Mutually Boosted Stereo Image Super-Resolution and Disparity Estimation (ACMMM 2021)](https://junchenglee.com/paper/ACMMM_2021.pdf)
@@ -51,5 +57,5 @@ Here are some ideas to get you started:
 - [Multi-level Edge Features Guided Network for Image Denoising (TNNLS 2020)](https://junchenglee.com/projects/TNNLS2020_MLEFGN)
 - [Soft-edge Assisted Network for Single Image Super-Resolution (TIP 2020)](https://junchenglee.com/projects/TIP2020_SEANET)
 - [Lightweight and Accurate Recursive Fractal Network for Image Super-Resolution (ICCVW 2019, Oral)](https://junchenglee.com/projects/ICCVW2019_SRRFN/)
-- [Multi-scale Residual Network for Image Super-Resolution (ECCV 2018)](https://junchenglee.com/projects/ECCV2018_MSRN)
+- [Multi-scale Residual Network for Image Super-Resolution (ECCV 2018)?Hot?](https://junchenglee.com/projects/ECCV2018_MSRN)
 
