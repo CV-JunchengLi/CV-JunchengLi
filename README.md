@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## Representative Publications
 - [From Beginner to Master: A Survey for Deep Learning-based Single-Image Super-Resolution (Under Review)](https://junchenglee.com/paper/SISR_2021.pdf)
 - [Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer (IJCAI 2022)]()
-- [Transformer for Single Image Super-Resolution (CVPRW 2022)?Hot?](https://arxiv.org/pdf/2108.11084.pdf)
+- [Transformer for Single Image Super-Resolution (CVPRW 2022) [Hot]](https://arxiv.org/pdf/2108.11084.pdf)
 - [Multiple Degradation and Reconstruction Network for Single Image Denoising via Knowledge Distillation (CVPRW 2022)]()
 - [FBSNet: A Fast Bilateral Symmetrical Network for Real-Time Semantic Segmentation (TMM 2022)](https://ieeexplore.ieee.org/abstract/document/9732215)
 - [Feature Distillation Interaction Weighting Network for Lightweight Image Super-Resolution (AAAI 2022)](https://junchenglee.com/paper/AAAI.pdf)
@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 - [Multi-level Edge Features Guided Network for Image Denoising (TNNLS 2020)](https://junchenglee.com/projects/TNNLS2020_MLEFGN)
 - [Soft-edge Assisted Network for Single Image Super-Resolution (TIP 2020)](https://junchenglee.com/projects/TIP2020_SEANET)
 - [Lightweight and Accurate Recursive Fractal Network for Image Super-Resolution (ICCVW 2019, Oral)](https://junchenglee.com/projects/ICCVW2019_SRRFN/)
-- [Multi-scale Residual Network for Image Super-Resolution (ECCV 2018)?Hot?](https://junchenglee.com/projects/ECCV2018_MSRN)
+- [Multi-scale Residual Network for Image Super-Resolution (ECCV 2018) [Hot]](https://junchenglee.com/projects/ECCV2018_MSRN)
 
